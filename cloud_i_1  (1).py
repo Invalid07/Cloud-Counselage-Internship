@@ -518,25 +518,6 @@ print('''top  collleges are =\n\n1.society's college of bca, rls institute, bela
 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
